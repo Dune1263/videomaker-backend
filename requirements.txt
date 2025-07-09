@@ -1,9 +1,8 @@
 flask
 requests
+moviepy
 imageio
 imageio-ffmpeg
+numpy
 tqdm
 decorator
-numpy
-proglog
-moviepy
