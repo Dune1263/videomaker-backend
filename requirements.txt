@@ -1,6 +1,6 @@
+moviepy==1.0.3
 flask
 requests
-moviepy
 imageio
 imageio-ffmpeg
 decorator
