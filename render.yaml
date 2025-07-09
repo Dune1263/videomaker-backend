@@ -3,5 +3,5 @@ services:
     name: videomaker-backend
     env: python
     plan: free
-    buildCommand: ""
-    startCommand: python app.py
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"
