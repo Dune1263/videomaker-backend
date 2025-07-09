@@ -1,4 +1,9 @@
 flask
 requests
-moviepy
+imageio
 imageio-ffmpeg
+tqdm
+decorator
+numpy
+proglog
+moviepy
