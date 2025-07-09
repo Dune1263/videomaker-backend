@@ -3,6 +3,6 @@ requests
 moviepy
 imageio
 imageio-ffmpeg
+decorator
 numpy
 tqdm
-decorator
